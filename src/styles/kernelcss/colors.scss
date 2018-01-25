@@ -1,0 +1,119 @@
+// color palettes
+$blue: #3cd3ec;
+$purple: #aa85d8;
+$green: #91e278;
+$yellow: #ffc644;
+$red: #e63946;
+$light-green: #effbec;
+$light-blue: #e0f9fd;
+$light-purple: #f3edf9;
+$light-yellow: #fff7e3;
+$light-red: #fcebec;
+$white: #fff;
+$light-grey-1: #fbfcfc;
+$light-grey-2: #f5f7f8;
+$light-purple2: #eff2f5;
+$medium-grey-1: #d6dde3;
+$asphalt: #5d6064;
+$medium-grey-2: #b5bbc1;
+$medium-grey-3: #969a9f;
+$dark-grey-1: #777279;
+$black: #000;
+$google-blue: #3e82f1;
+$facebook-blue: #4460a0;
+$linkedin-blue: #007ebb;
+$blue-6: #3cd3ec;
+$purple-6: #aa85d8;
+$cyan-6: #00a2ae;
+$green-6: #91e278;
+$pink-6: #f5317f;
+$red-6: #e63946;
+$orange-6: #f56a00;
+$yellow-6: #ffc644;
+// colors
+.color-white {
+    color: $white
+}
+
+.color-black {
+    color: $black;
+}
+
+.color-blue {
+    color: $blue
+}
+
+.color-purple {
+    color: $purple
+}
+
+.color-green {
+    color: $green
+}
+
+.color-yellow {
+    color: $yellow
+}
+
+.color-red {
+    color: $red
+}
+
+.dark-grey-1 {
+    color: $dark-grey-1
+}
+
+.medium-grey-2 {
+    color: $medium-grey-2
+}
+
+.asphalt {
+    color: $asphalt
+}
+
+// background color
+.bg-white {
+    background-color: $white;
+}
+
+.bg-black {
+    background-color: $black;
+}
+
+.bg-blue {
+    background-color: $blue;
+    border-color: inherit;
+}
+
+.bg-light-blue {
+    background-color: $light-blue;
+}
+
+.bg-purple {
+    background-color: $purple;
+    border-color: inherit;
+}
+
+.bg-light-purple {
+    background-color: $light-purple;
+}
+
+.bg-green {
+    background-color: $green;
+}
+
+.bg-light-green {
+    background-color: $light-green;
+}
+
+.bg-yellow {
+    background-color: $yellow;
+}
+
+.bg-red {
+    background-color: $red;
+}
+
+.bg-light-grey2 {
+    background-color: $light-grey-2;
+}

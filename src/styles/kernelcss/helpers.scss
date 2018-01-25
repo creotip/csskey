@@ -1,0 +1,42 @@
+/* General */
+
+.pointer {
+    cursor: pointer;
+}
+
+a.no-color {
+    color: inherit;
+}
+
+a.no-color:focus {
+    text-decoration: none;
+    text-decoration-skip: ink;
+}
+
+.block-border {
+    border: solid 1px #eff2f5;
+}
+
+.rounded {
+    border-radius: 50%;
+    img {
+        border-radius: 50%;
+    }
+}
+
+
+/* Borders */
+
+.title-border,
+.blog-border {
+    border-bottom: 1px solid #d6dde3;
+}
+
+// hide and show
+.display-none {
+    display: none !important
+}
+
+.show {
+    display: block !important
+}
