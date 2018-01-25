@@ -1,6 +1,6 @@
-# Webpack Frontend Starterkit
+# Extremly simple css microframework
 
-A lightweight foundation for your next webpack based frontend project.
+Great as an addition for major frameworks like Bootstrap
 
 
 ### Installation
