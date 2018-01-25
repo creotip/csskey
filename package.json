@@ -1,7 +1,7 @@
 {
-  "name": "yet-another-webpack-es6-starterkit",
+  "name": "kernelcss",
   "version": "1.0.0",
-  "description": "A light foundation for your next frontend project based on webpack.",
+  "description": "simple css micro-framework",
   "main": "dist/styles/bundle.css",
   "scripts": {
     "prebuild": "rimraf dist",
@@ -10,20 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wbkd/yet-another-webpack-es6-starterkit.git"
+    "url": "git+https://github.com/creotip/kernelcss.git"
   },
   "keywords": [
-    "webpack",
-    "startkit",
+    "css",
+    "sass",
     "frontend",
     "es6",
     "javascript",
     "webdev"
   ],
-  "author": "webkid.io",
+  "author": "Ruslan Elishaev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wbkd/yet-another-webpack-es6-starterkit/issues"
+    "url": "https://github.com/creotip/kernelcss/issues"
   },
   "eslintConfig": {
     "env": {
@@ -38,7 +38,7 @@
       "semi": 2
     }
   },
-  "homepage": "https://github.com/wbkd/yet-another-webpack-es6-starterkit#readme",
+  "homepage": "https://github.com/creotip/kernelcss#readme",
   "devDependencies": {
     "babel-core": "^6.9.0",
     "babel-loader": "^7.1.2",
